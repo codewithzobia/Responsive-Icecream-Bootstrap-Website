@@ -1,12 +1,15 @@
 
 .bg{
-    background-color: pink;
+    background-color: rgb(75, 2, 14);
+    color: white;
 }
 .nav-item{
+    color: #ffffff;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+    
 }
 .nav-item:hover{
    
@@ -46,4 +49,7 @@ h1{
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+}
+.fa-brands{
+    cursor: pointer;
 }
